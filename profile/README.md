@@ -5,7 +5,7 @@ Currently the plan for indexing is using the node to request all block and trans
 - Database: PostegreSQL
 - Sync: Python/Java/Node (Don't know yet)
 
-##Web
+## Web
 For web / backend react next.js will most probaply be used. This is not 100% sure yet but server side rendering would be nice to prevent a free public API for everyone to use.
 
 - Web: React / Next.js
